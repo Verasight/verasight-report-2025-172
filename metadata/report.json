@@ -1,5 +1,4 @@
 {
-  "schema_version": "0.1.0",
   "report_id": "2025-172",
   "repo_name": "verasight-report-2025-172",
   "title": "Verasight Human/LLM Comparison Survey #2025-172",
@@ -18,7 +17,5 @@
   "modules": [
     "soc_pol",
     "tech_behavior"
-  ],
-  "publication_status": "ready_for_draft",
-  "reuse_status": "reference_only_pending_verasight_license_decision"
+  ]
 }
