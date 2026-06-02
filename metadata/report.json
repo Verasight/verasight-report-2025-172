@@ -1,0 +1,24 @@
+{
+  "schema_version": "0.1.0",
+  "report_id": "2025-172",
+  "repo_name": "verasight-report-2025-172",
+  "title": "Verasight Human/LLM Comparison Survey #2025-172",
+  "wave_id": "2025-172",
+  "source_report_url": "https://reports.verasight.io/reports/verasight-human-llm-comparison-survey-2025-172",
+  "data_library_url": "https://data.verasight.io/",
+  "field_dates": {
+    "start": "2025-12-03",
+    "end": "2025-12-08"
+  },
+  "population": "US adults age 18+",
+  "mode": "online panel (Verasight Community)",
+  "sponsor": "Verasight",
+  "aapor_transparency": true,
+  "question_count": 63,
+  "modules": [
+    "soc_pol",
+    "tech_behavior"
+  ],
+  "publication_status": "ready_for_draft",
+  "reuse_status": "reference_only_pending_verasight_license_decision"
+}
